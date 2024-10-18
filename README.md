@@ -2,12 +2,12 @@
 <img src="./src//assets/images/developia_home.png" width="100%"  >
 
 ## Project Description
+Developia Fashion is an E-commerce Clothing Website targeting WhatsApp Vendors. 
 
 
 ## Figma design
 [eCommerce Fashion website](https://www.figma.com/design/hYEzl4NjhXLYEQAQ80ylZa/eCommerce-Fashion-Website-(Community))
 
-Developia Fashion is an E-commerce Clothing Website targeting WhatsApp Vendors. 
 
 ## Folder Structure
 
